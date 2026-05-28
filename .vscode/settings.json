@@ -10,5 +10,6 @@
     "chat.tools.terminal.autoApprove": {
         ".specify/scripts/bash/": true,
         ".specify/scripts/powershell/": true
-    }
+    },
+    "snyk.advanced.organization": "d0767cc9-3060-458f-b1f5-eec46efc2a8f"
 }
